@@ -1,4 +1,4 @@
-<img src="header.png" alt="There should be a header but sth went wrong:(">
+![Header](./github-header-image.png)
 <h2>I'm a 4th year Computer Science student who focuses on Frontend Development.</h2>
 <!-- <h3>Here's my <a href="http://o916271n.beget.tech/" target="_blank">business card website (:</a></h3> -->
 
